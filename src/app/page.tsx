@@ -3,7 +3,6 @@
 //import the custom hook for getting the response from the OpenAI API
 import useOpenAI from './hooks/useOpenAI';
 
-
 import {useState, useRef, useEffect, FormEvent} from 'react';
 
 type Message = {

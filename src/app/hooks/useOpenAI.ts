@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import OpenAI from 'openai';
 
 const API_KEY = 'YOUR-API-KEY';
